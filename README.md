@@ -808,10 +808,10 @@ RAG systems, LLM orchestration, and scalable backend design.
 
 ## 👤 Author
 
-**Shital Bhokare**  
+**Bumannagari Sai Sandeep**  
 AI/ML & Generative AI Developer  
 
-🔗 GitHub: https://github.com/ShitalBhokare  
-🔗 LinkedIn: https://www.linkedin.com/in/shital-bhokare-798262352/
+🔗 GitHub: https://github.com/saisandeep1912  
+🔗 LinkedIn: https://www.linkedin.com/in/saisandeep1912/
 
 ---
