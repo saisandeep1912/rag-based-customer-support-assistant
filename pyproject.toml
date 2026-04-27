@@ -1,0 +1,15 @@
+[project]
+name = "customer-support-agent"
+version = "0.1.0"
+description = "RAG-based customer support backend with LangGraph routing and xAI Grok"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chromadb>=1.5.8",
+    "fastapi[standard]>=0.136.0",
+    "langgraph>=1.1.9",
+    "pydantic-settings>=2.11.0",
+    "pypdf>=6.10.2",
+    "sentence-transformers>=5.4.1",
+    "tiktoken>=0.12.0"
+]
